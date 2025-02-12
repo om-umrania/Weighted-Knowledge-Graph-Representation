@@ -33,7 +33,8 @@ The project involves the following steps:
 ## Output Visualization
 Below is an example output of the **Weighted Knowledge Graph**:
 
-![Knowledge Graph Output](Building%20Knowledge%20Graph%20Using%20Python%20with%20Weighted%20Relation.png)
+![Knowledge Graph Output](https://github.com/om-umrania/Weighted-Knowledge-Graph-Representation/blob/main/Building%20Knowledge%20Graph%20Using%20Python%20with%20200%20Weighted%20Relation.png.png)
+
 
 This visualization shows the **weighted relationships** between entities, where edge thickness represents the frequency of occurrence in the dataset.
 
@@ -82,4 +83,6 @@ The implementation has significant implications for:
 ## Author
 Om Umrania  
 [LinkedIn](https://www.linkedin.com/in/omumrania/) | [GitHub](https://github.com/om-umrania)
+
+
 
