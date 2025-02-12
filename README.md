@@ -30,6 +30,13 @@ The project involves the following steps:
 5. **Visualizing the Graph**: Using matplotlib to plot the graph with weighted edges.
 6. **Sampling 100 Nodes**: To generate a clear and interpretable subgraph.
 
+## Output Visualization
+Below is an example output of the **Weighted Knowledge Graph**:
+
+![Knowledge Graph Output](Building%20Knowledge%20Graph%20Using%20Python%20with%20Weighted%20Relation.png)
+
+This visualization shows the **weighted relationships** between entities, where edge thickness represents the frequency of occurrence in the dataset.
+
 ## Code Usage
 ### Prerequisites
 Install the necessary dependencies:
